@@ -1,5 +1,6 @@
 ![mybatis-log-plugin](https://img.shields.io/jetbrains/plugin/v/13905-mybatis-log-plugin?label=version&style=flat-square)
 [![mybatis-log-plugin](https://img.shields.io/jetbrains/plugin/d/13905-mybatis-log-plugin?style=flat-square)](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/versions)
+![](https://visitor-badge.glitch.me/badge?page_id=mybatis-log-plugin)
 
 ### [English](https://github.com/kookob/mybatis-log-plugin/blob/master/README_EN.md)  
 

@@ -10,3 +10,5 @@
 初创公司五折购买JetBrains产品，[取得五折优惠](https://www.jetbrains.com/shop/eform/startup)  
 [开源项目申请授权许可](https://www.jetbrains.com/shop/eform/opensource?product=ALL)  
 最后，非常感谢大家的理解和支持！
+
+![](https://visitor-badge.glitch.me/badge?page_id=mybatis-log-plugin:activation)
