@@ -59,7 +59,7 @@ https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/manual
 [mybatis-log-plugin.jar](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/versions)  
 
 ## 销售价格
-原始价格: `$5/year`  
+价格: `$5/year`  
 **非正版IDE用户，请勿购买本插件！(官方限制，无法激活)**
 
 ## 关于
