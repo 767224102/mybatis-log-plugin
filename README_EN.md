@@ -60,6 +60,8 @@ https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/manual
 ## Price
 `$5/year`
 
-## Other Plugin
+## Plugins
+* [MyBatis Log Plugin](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin) 
 * [Smart Jump](https://plugins.jetbrains.com/plugin/14053-smart-jump) 
+* [Smart Search](https://plugins.jetbrains.com/plugin/14615-smart-search)
 * [Toolset](https://plugins.jetbrains.com/plugin/14384-toolset) 

@@ -58,14 +58,15 @@ https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/manual
 ## 安装下载
 [mybatis-log-plugin.jar](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/versions)  
 
-## 销售价格
-价格: `$5/year`  
-**非正版IDE用户，请勿购买本插件！(官方限制，无法激活)**
+## 价格
+`$5/year`  
 
 ## 关于
 * [插件购买流程](https://github.com/kookob/mybatis-log-plugin/blob/master/buy.md)
 * [激活失败问题](https://github.com/kookob/mybatis-log-plugin/blob/master/activation.md)
 
 ## 其他插件
+* [MyBatis Log Plugin](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin) 
 * [Smart Jump](https://plugins.jetbrains.com/plugin/14053-smart-jump) 
+* [Smart Search](https://plugins.jetbrains.com/plugin/14615-smart-search)
 * [Toolset](https://plugins.jetbrains.com/plugin/14384-toolset) 
