@@ -52,18 +52,15 @@ MyBatis Log Test: ERROR sql4 - ==>  Parameters:
  FROM t_table order by id asc;
 ```
 
-## 使用手册
-https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/manual
-
 ## 安装下载
 [mybatis-log-plugin.jar](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/versions)  
 
 ## 价格
 `$5/year`  
 
-## 关于
-* [插件购买流程](https://github.com/kookob/mybatis-log-plugin/blob/master/buy.md)
-* [激活失败问题](https://github.com/kookob/mybatis-log-plugin/blob/master/activation.md)
+## 插件文档
+https://www.yuque.com/kookob/plugin  
+文档里面包含插件介绍，使用手册，购买流程，激活失败等说明。
 
 ## 其他插件
 * [MyBatis Log Plugin](https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin) 
